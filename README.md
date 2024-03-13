@@ -2,7 +2,7 @@
 
 
 
-## [Live here]()
+## [Live here](https://savvy-weather.vercel.app/)
 
 ## Key Features:
  - Get current weather condition
